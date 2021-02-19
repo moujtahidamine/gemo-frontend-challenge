@@ -1,7 +1,7 @@
 # Demo 
 https://moujtahidamine.github.io/gemo-frontend-challenge/
 
-#Task Specification
+# Task Specification
 https://github.com/gemography/frontend-coding-challenge
 
 # Getting Started with Create React App
