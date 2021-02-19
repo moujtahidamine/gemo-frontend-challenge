@@ -1,0 +1,25 @@
+{
+  "files": {
+    "main.css": "/gemo-frontend-challenge/static/css/main.3e3b6641.chunk.css",
+    "main.js": "/gemo-frontend-challenge/static/js/main.91ec69a3.chunk.js",
+    "main.js.map": "/gemo-frontend-challenge/static/js/main.91ec69a3.chunk.js.map",
+    "runtime-main.js": "/gemo-frontend-challenge/static/js/runtime-main.ad9a9be4.js",
+    "runtime-main.js.map": "/gemo-frontend-challenge/static/js/runtime-main.ad9a9be4.js.map",
+    "static/css/2.150d169a.chunk.css": "/gemo-frontend-challenge/static/css/2.150d169a.chunk.css",
+    "static/js/2.9b9b4e39.chunk.js": "/gemo-frontend-challenge/static/js/2.9b9b4e39.chunk.js",
+    "static/js/2.9b9b4e39.chunk.js.map": "/gemo-frontend-challenge/static/js/2.9b9b4e39.chunk.js.map",
+    "static/js/3.be880e2b.chunk.js": "/gemo-frontend-challenge/static/js/3.be880e2b.chunk.js",
+    "static/js/3.be880e2b.chunk.js.map": "/gemo-frontend-challenge/static/js/3.be880e2b.chunk.js.map",
+    "index.html": "/gemo-frontend-challenge/index.html",
+    "static/css/2.150d169a.chunk.css.map": "/gemo-frontend-challenge/static/css/2.150d169a.chunk.css.map",
+    "static/css/main.3e3b6641.chunk.css.map": "/gemo-frontend-challenge/static/css/main.3e3b6641.chunk.css.map",
+    "static/js/2.9b9b4e39.chunk.js.LICENSE.txt": "/gemo-frontend-challenge/static/js/2.9b9b4e39.chunk.js.LICENSE.txt"
+  },
+  "entrypoints": [
+    "static/js/runtime-main.ad9a9be4.js",
+    "static/css/2.150d169a.chunk.css",
+    "static/js/2.9b9b4e39.chunk.js",
+    "static/css/main.3e3b6641.chunk.css",
+    "static/js/main.91ec69a3.chunk.js"
+  ]
+}
