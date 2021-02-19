@@ -1,4 +1,4 @@
-# Demo :
+# Demo 
 https://moujtahidamine.github.io/gemo-frontend-challenge/
 # Getting Started with Create React App
 
