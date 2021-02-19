@@ -1,0 +1,84 @@
+@import "variables";
+
+// App style
+
+.app{
+  height: 100%;
+}
+
+// Repository div style : ####################################
+
+.repo-avatar{
+  width: 200px;
+  height: 100%;
+}
+.repo-right{
+  min-height: 100%;
+}
+
+.stars-div{
+  border-width: 1px;
+  border-color: #000;
+}
+
+.issuses-div{
+
+}
+// Skeleton style : ##########################################
+
+.sk-box{
+  width: auto;
+  height: 100%;
+  display: flex;
+  flex-direction: column;
+  justify-content: center;
+}
+.sk-repo {
+  width: 220px;
+  height: 80px;
+}
+.sk-repo .avatar {
+  float: left;
+  width: 52px;
+  height: 52px;
+  background-color: #ccc;
+  border-radius: 0;
+  margin: 8px;
+  background-image: linear-gradient(90deg, #F4F4F4 0px, rgba(229, 229, 229, 0.8) 40px, #F4F4F4 80px);
+  background-size: 600px;
+  animation: shine-avatar 2s infinite ease-out;
+}
+.sk-repo .line {
+  float: left;
+  width: 140px;
+  height: 16px;
+  margin-top: 12px;
+  border-radius: 0;
+  background-image: linear-gradient(90deg, #F4F4F4 0px, rgba(229, 229, 229, 0.8) 40px, #F4F4F4 80px);
+  background-size: 600px;
+  animation: shine-lines 2s infinite ease-out;
+}
+.sk-repo .avatar + .line {
+  margin-top: 11px;
+  width: 100px;
+}
+.sk-repo .line ~ .line {
+  background-color: #ddd;
+}
+
+@keyframes shine-lines {
+  0% {
+    background-position: -100px;
+  }
+  40%, 100% {
+    background-position: 140px;
+  }
+}
+@keyframes shine-avatar {
+  0% {
+    background-position: -32px;
+  }
+  40%, 100% {
+    background-position: 208px;
+  }
+}
